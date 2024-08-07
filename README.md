@@ -9,6 +9,19 @@ Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopy
 <h3>Description: This project seeks to analyze various demographic indicators and lifestyle behaviors as they relate to the incidence of diabetes in the United States.</h3>
 
 
+<h3>Research Questions:</h3>
+
+- What are the general demographic inidicators that are correlated with diabetes?
+	- Income
+	- Education
+	- Age
+- How are these demographic indicators correlated with lifestyle choices?
+	- Alchohol: 
+	- Fruits and veg (2 variables): 
+	- Cholesterol check: 
+	- Exercise: 
+	- BMI (continuous variable): 
+- How is each lifestyle choice above correlated with diabetes outcome?
 
 
 <h3>Challenges:</h3>
@@ -18,6 +31,7 @@ Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopy
 <h3>Tech Used:</h3>
 
 <h3>Resources:</h3>
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 <h3>Slide Deck Presentaion Link:</h3>
 
