@@ -24,14 +24,17 @@ Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopy
 - How is each lifestyle choice above correlated with diabetes outcome?
 
 
+
+<h3>Results:</h3>
+
 <h3>Challenges:</h3>
-
+	- Finding a dataset to analyze.
 <h3>Successes:</h3>
-
+	- Teamwork makes the dream work!
 <h3>Tech Used:</h3>
-
+	- Jupyter Notebook
 <h3>Resources:</h3>
-https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+	- https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 <h3>Slide Deck Presentaion Link:</h3>
 
