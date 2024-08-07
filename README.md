@@ -7,3 +7,22 @@ Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopy
 <h2># project-one</h2>
 
 <h3>Description: This project seeks to analyze various demographic indicators and lifestyle behaviors as they relate to the incidence of diabetes in the United States.</h3>
+
+
+
+
+<h3>Challenges:</h3>
+
+<h3>Successes:</h3>
+
+<h3>Tech Used:</h3>
+
+<h3>Resources:</h3>
+
+<h3>Slide Deck Presentaion Link:</h3>
+
+
+
+
+
+
