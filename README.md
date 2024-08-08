@@ -12,7 +12,7 @@ Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopy
 
 <h3>Research Questions:</h3>
 
-- What are the general demographic inidicators that are correlated with diabetes?
+- What are the general demographic indicators that are correlated with diabetes?
 	- Income
 	- Education
 	- Age
@@ -53,7 +53,7 @@ Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopy
 	- https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset<br />
 	- [OpenAI GitHub](https://github.com/openai)
  	
-<h3>Slide Deck Presentaion Link:</h3>
+<h3>Slide Deck Presentation Link:</h3>
 
 
 
