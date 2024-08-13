@@ -27,6 +27,8 @@ Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopy
 
 
 <h3>Results:</h3> 
+- Overall, significant correlations were found between diabetes and income, education, and age, with the strength of those significances increasing in that order. Although a trend can be observed in the provided charts, income was found to not have a significant correlation across all categories, but when the highest and lowest categories were compared, a very low p-value was returned in the Chi-squared test. The charts demonstrate that as income increases, diabetes rate decreases; as education level increases, diabetes rate decreases; and as age increases, diabetes rate increases.
+- Although fruit and vegetable consumption alone are not significantly correlated with diabetes outcome, they are significantly correlated with various demographic metrics which themselves are strongly correlated with diabetes. Fruit and vegetable consumption increases as income, education, and age increase. As diabetes outcome decreases when income and education increase, this could suggest a difference in lifestyle between groups which has an impact on diabetes outcome.
 (Pending 6-8 Visualizations we make, inserted random ones found on google images for now.....)
 <br />
 <br />
