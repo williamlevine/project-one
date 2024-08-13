@@ -1,34 +1,44 @@
+<h1>Diabetes and Demographic Indicators in the United States</h1>
+
+<h4>Contributors: Muad Rashid; William Levine; Chinna Maijala; Abigail Serpa; Sophia Seibure</h4>
 
 ![image](https://github.com/user-attachments/assets/ab3e9117-efeb-492d-8a02-b1b52855f8c6)
 Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sweet Life</a> on <a href="https://unsplash.com/photos/a-plate-of-food-and-a-glucometer-on-a-table-iIDY3j_Gnjc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
-<h1>Diabetes and Demographic Indicators in the United States</h1>
 
-<h4>Contributors: Muad Rashid; William Levine; Chinna Maijala; Abigail Serpa; Sophia Seibure</h4>
-<h2># project-one</h2>
+<h2>Project One for the University of Minnesota's Data Analytics and Visualization Bootcamp</h2>
 
-<h3>Description: This project seeks to analyze various demographic indicators and lifestyle behaviors as they relate to the incidence of diabetes in the United States.</h3>
+<h3>Overview</h3>
+This project seeks to analyze various demographic indicators and lifestyle behaviors as they relate to the incidence of diabetes in the United States.
+(SOMETHING HERE ABOUT WHAT DIABETES IS AND WHY IT IS IMPORTANT AND WHY WE CHOSE IT)
 
+<h3>Research Questions</h3>
 
-<h3>Research Questions:</h3>
-
-- What are the general demographic indicators that are correlated with diabetes?
+- Are the following general demographic indicators correlated with diabetes?
 	- Income
 	- Education
 	- Age
-- How are these demographic indicators correlated with lifestyle choices?
-	- Alchohol: 
-	- Fruits and veg (2 variables): 
-	- Cholesterol check: 
-	- Exercise: 
-	- BMI (continuous variable): 
+- How are these demographic indicators correlated with the following lifestyle choices?
+	- Heavy alchohol consumption
+	- Fruit and vegetable consumption 
+	- Recent cholesterol check
+	- Physical activity
+	- BMI 
 - How is each lifestyle choice above correlated with diabetes outcome?
 
+<h3>Data Exploration and Cleaning</h3>
+The dataset used for this project was found on Kaggle, where it existed as a cleaned and trimmed version of the larger Behavioral Risk Factor Surveillance System (BRFSS), a survery conducted annually in the United States by the CDC. The original survey has responses from over 400,000 participants. The cleaned version we used has responses from over 250,000 people and is trimmed to only include selected demographic, lifestyle, and diabetes information. These results are from the year 2015.
+<br/><br/>
+As the dataset was already quite clean, most of our data cleaning involved ensuring the absence of null values, as well as reorganizing the data into usable dataframes using groupby and related mathematical functions to calculate the counts and proportions of participants in each demographic or lifestyle group with a given outcome.
 
 
-<h3>Results:</h3> 
+<h3>Results</h3> 
+
 - Overall, significant correlations were found between diabetes and income, education, and age, with the strength of those significances increasing in that order. Although a trend can be observed in the provided charts, income was found to not have a significant correlation across all categories, but when the highest and lowest categories were compared, a very low p-value was returned in the Chi-squared test. The charts demonstrate that as income increases, diabetes rate decreases; as education level increases, diabetes rate decreases; and as age increases, diabetes rate increases.
+
 - Although fruit and vegetable consumption alone are not significantly correlated with diabetes outcome, they are significantly correlated with various demographic metrics which themselves are strongly correlated with diabetes. Fruit and vegetable consumption increases as income, education, and age increase. As diabetes outcome decreases when income and education increase, this could suggest a difference in lifestyle between groups which has an impact on diabetes outcome.
+
+
 (Pending 6-8 Visualizations we make, inserted random ones found on google images for now.....)
 <br />
 <br />
@@ -52,8 +62,11 @@ Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopy
 	- Jupyter Notebook
  
 <h3>Resources:</h3>
-	- https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset<br />
-	- [OpenAI GitHub](https://github.com/openai)
+	- Original dataset: https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system<br/>
+ 	- Cleaned dataset: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset<br />
+ 	- Notebook for cleaning: https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook<br/>
+  	- Codebook for interpreting variables: https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf<br/>
+	- OpenAI GitHub: https://github.com/openai
  	
 <h3>Slide Deck Presentation Link:</h3>
 
