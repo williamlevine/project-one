@@ -41,6 +41,9 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 
 - Across all income and education levels, a low percentage of respondents reported heavy alcohol consumption, though there is a slight increase in heavy drinking among higher income earners and more educated individuals. This trend may be attributed to the stress and responsibilities associated with high-income jobs, and the social environments in higher education settings where drinking habits may begin. In contrast, heavy alcohol consumption declines with age, with the highest percentage found among the 18-24 age group, likely due to their newfound freedom and social drinking culture in college. Interestingly, the data reveals that a higher proportion of individuals with diabetes are in the non-heavy alcohol consumption group, though the small sample size of heavy drinkers and a p-value of .1264 from the chi-squared test indicate no statistically significant relationship between diabetes and heavy alcohol use in this data set.
 
+
+The analysis of cholesterol checks across different demographic indicators—age, education, and income—reveals clear patterns of health behavior and access to preventive care. Older adults, those with higher educational attainment, and individuals with higher incomes are more likely to have undergone cholesterol checks. These findings underscore the critical role of socioeconomic factors in healthcare access and the importance of targeted public health interventions to increase preventive care among younger, less educated, and lower-income populations. By addressing these disparities, we can improve overall public health outcomes and reduce the risk of cardiovascular diseases associated with high cholesterol levels.
+
 (Pending 6-8 Visualizations we make, inserted random ones found on google images for now.....)
 <br />
 <br />
