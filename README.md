@@ -9,9 +9,9 @@ Photo by <a href="https://unsplash.com/@sweetlifediabetes?utm_content=creditCopy
 <h2>Project One for the University of Minnesota's Data Analytics and Visualization Bootcamp</h2>
 
 <h3>Overview</h3>
-This project seeks to analyze various demographic indicators and lifestyle behaviors as they relate to the incidence of diabetes in the United States. Diabetes research and data analysis is crucial as it addresses a global health crisis affecting millions of people; our project will focus on different outcomes in the U.S. Diabetes is a chronic condition that can lead to serious complications such as heart disease, kidney failure, blindness, and amputations. Understanding the disease's mechanisms, risk factors, effective treatments along with life style improvements is vital for improving patient outcomes, reducing healthcare costs, and preventing the onset of diabetes in at-risk populations. Research in this field also supports the development of new therapies, technologies, and public health strategies that can significantly improve quality of life and reduce the burden of diabetes on individuals and society.
+This project seeks to analyze various demographic indicators and lifestyle behaviors as they relate to the incidence of diabetes in the United States. Diabetes research and data analysis is crucial as it addresses a global health crisis affecting millions of people; our project will focus on different outcomes in the U.S. Diabetes is a chronic condition that can lead to serious complications such as heart disease, kidney failure, blindness, and amputations. Understanding the disease's mechanisms, risk factors, and effective treatments along with lifestyle improvements is vital for improving patient outcomes, reducing healthcare costs, and preventing the onset of diabetes in at-risk populations. Research in this field also supports the development of new therapies, technologies, and public health strategies that can significantly improve quality of life and reduce the burden of diabetes on individuals and society.
 
-Diabetes research and data analysis is crucial as it addresses a global health crisis affecting millions of people; our project will focus on different outcomes in the U.S. Diabetes is a chronic condition that can lead to serious complications such as heart disease, kidney failure, blindness, and amputations. Understanding the disease's mechanisms, risk factors, effective treatments along with life style improvements is vital for improving patient outcomes, reducing healthcare costs, and preventing the onset of diabetes in at-risk populations. Research in this field also supports the development of new therapies, technologies, and public health strategies that can significantly improve quality of life and reduce the burden of diabetes on individuals and society.
+Diabetes research and data analysis is crucial as it addresses a global health crisis affecting millions of people; our project will focus on different outcomes in the U.S. Diabetes is a chronic condition that can lead to serious complications such as heart disease, kidney failure, blindness, and amputations. Understanding the disease's mechanisms, risk factors, and effective treatments along with lifestyle improvements is vital for improving patient outcomes, reducing healthcare costs, and preventing the onset of diabetes in at-risk populations. Research in this field also supports the development of new therapies, technologies, and public health strategies that can significantly improve quality of life and reduce the burden of diabetes on individuals and society.
 
 <h3>Research Questions:</h3>
 
@@ -20,7 +20,7 @@ Diabetes research and data analysis is crucial as it addresses a global health c
 	- Education
 	- Age
 - How are these demographic indicators correlated with the following lifestyle choices?
-	- Heavy alchohol consumption
+	- Heavy alcohol consumption
 	- Fruit and vegetable consumption 
 	- Recent cholesterol check
 	- Physical activity
@@ -28,9 +28,9 @@ Diabetes research and data analysis is crucial as it addresses a global health c
 - How is each lifestyle choice above correlated with diabetes outcome?
 
 <h3>Data Exploration and Cleaning</h3>
-The dataset used for this project was found on Kaggle, where it existed as a cleaned and trimmed version of the larger Behavioral Risk Factor Surveillance System (BRFSS), a survery conducted annually in the United States by the CDC. The original survey has responses from over 400,000 participants. The cleaned version we used has responses from over 250,000 people and is trimmed to only include selected demographic, lifestyle, and diabetes information. These results are from the year 2015.
+The dataset used for this project was found on Kaggle, where it existed as a cleaned and trimmed version of the larger Behavioral Risk Factor Surveillance System (BRFSS), a survey conducted annually in the United States by the CDC. The original survey has responses from over 400,000 participants. The cleaned version we used has responses from over 250,000 people and is trimmed to only include selected demographic, lifestyle, and diabetes information. These results are from the year 2015.
 <br/><br/>
-As the dataset was already quite clean, most of our data cleaning involved ensuring the absence of null values, as well as reorganizing the data into usable dataframes using groupby and related mathematical functions to calculate the counts and proportions of participants in each demographic or lifestyle group with a given outcome.
+As the dataset was already quite clean, most of our data cleaning involved ensuring the absence of null values, as well as reorganizing the data into usable data frames using groupby and related mathematical functions to calculate the counts and proportions of participants in each demographic or lifestyle group with a given outcome.
 
 
 <h3>Results</h3> 
