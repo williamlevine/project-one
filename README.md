@@ -34,6 +34,11 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 <h3>Results</h3> 
 
 Overall, significant correlations were found between diabetes and income, education, and age, with the strength of those significances increasing in that order. Although a trend can be observed in the provided charts, income was found to not have a significant correlation across all categories, but when the highest and lowest categories were compared, a very low p-value was returned in the Chi-squared test. The charts demonstrate that as income increases, diabetes rate decreases; as education level increases, diabetes rate decreases; and as age increases, diabetes rate increases.
+<p align="center">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/556f29f5-7c18-41d9-a580-18d73b5f4534">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/aac1a9b7-95bc-438c-9247-524dcf178d01">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/9a058f30-735c-493d-8a55-1dfe00f92ffa">
+
 
 Neither fruit nor vegetable consumption was found to have a statistically significant correlation with diabetes outcome. Vegetable consumption was a bit more significant than fruit consumption (p-values of 0.5889 and 0.828, respectively), but the difference could still be attributed largely to chance in sampling. Although not statistically significant, the charts suggest that once-a-day or greater consumption of both fruits and vegetables could be correlated with lower rates of diabetes.
 Income has a significant relationship with both fruit and vegetable consumption: fruit only when the highest and lowest groups are compared; vegetables both when all groups are compared and when the highest and lowest are compared. Both fruit and vegetable consumption increase as income increases.
