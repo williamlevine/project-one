@@ -36,6 +36,9 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 - Overall, significant correlations were found between diabetes and income, education, and age, with the strength of those significances increasing in that order. Although a trend can be observed in the provided charts, income was found to not have a significant correlation across all categories, but when the highest and lowest categories were compared, a very low p-value was returned in the Chi-squared test. The charts demonstrate that as income increases, diabetes rate decreases; as education level increases, diabetes rate decreases; and as age increases, diabetes rate increases.
 
 - Although fruit and vegetable consumption alone are not significantly correlated with diabetes outcome, they are significantly correlated with various demographic metrics which themselves are strongly correlated with diabetes. Fruit and vegetable consumption increases as income, education, and age increase. As diabetes outcome decreases when income and education increase, this could suggest a difference in lifestyle between groups which has an impact on diabetes outcome.
+<p align="center">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/7366eb72-570d-4c09-8d13-44f74ca722a6">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/6d689e6a-e887-4a2f-bedc-93672df29083">
   
 - The analysis reveals that physical activity is influenced by several demographic factors: diabetes status, income, age, and education level. Individuals with diabetes are less active compared to those without diabetes or prediabetes. Higher income is associated with greater physical activity, while lower income correlates with more inactivity. Younger individuals are more active than older ones, who show higher inactivity rates. Additionally, higher education levels are linked to more physical activity, whereas lower education levels are associated with higher inactivity rates. These factors highlight the complex interplay of socio-economic and health-related variables on lifestyle behaviors.
 
@@ -54,6 +57,10 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 <img width="290" alt="image" src="https://github.com/user-attachments/assets/9d70f5ae-6662-4102-8e95-c8064ae003b4">
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/4d33400d-b1fa-49ed-bf2f-f0db317ef7e4">
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/a5699fbe-8e34-43cf-b445-63835bb49cb0">
+<img src="https://github.com/user-attachments/assets/2cfb57c6-34be-40db-bfa9-9eb11bd402c6">
+
+
+
 </p>
 <br />
 <br />
