@@ -39,16 +39,24 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 
 - Although fruit and vegetable consumption alone are not significantly correlated with diabetes outcome, they are significantly correlated with various demographic metrics which themselves are strongly correlated with diabetes. Fruit and vegetable consumption increases as income, education, and age increase. As diabetes outcome decreases when income and education increase, this could suggest a difference in lifestyle between groups which has an impact on diabetes outcome.
 <p align="center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/7366eb72-570d-4c09-8d13-44f74ca722a6">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/6d689e6a-e887-4a2f-bedc-93672df29083">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7366eb72-570d-4c09-8d13-44f74ca722a6">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6d689e6a-e887-4a2f-bedc-93672df29083">
   
 - The analysis reveals that physical activity is influenced by several demographic factors: diabetes status, income, age, and education level. Individuals with diabetes are less active compared to those without diabetes or prediabetes. Higher income is associated with greater physical activity, while lower income correlates with more inactivity. Younger individuals are more active than older ones, who show higher inactivity rates. Additionally, higher education levels are linked to more physical activity, whereas lower education levels are associated with higher inactivity rates. These factors highlight the complex interplay of socio-economic and health-related variables on lifestyle behaviors.
+<p align="center">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/1e235e1b-33c1-44fb-8e47-41a73d569fbb">
 
 - Across all income and education levels, a low percentage of respondents reported heavy alcohol consumption, though there is a slight increase in heavy drinking among higher income earners and more educated individuals. In contrast, heavy alcohol consumption declines with age, with the highest percentage found among the 18-24 age group. Interestingly, the data reveals that a higher proportion of individuals with diabetes are in the non-heavy alcohol consumption group.
+<p align="center">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ace66240-909e-42cf-98b4-83ffa36a55a2">
 
+- The analysis of cholesterol checks across different demographic indicators—age, education, and income—reveals clear patterns of health behavior and access to preventive care. Older adults, those with higher educational attainment, and individuals with higher incomes are more likely to have undergone cholesterol checks. These findings underscore the critical role of socioeconomic factors in healthcare access and the importance of targeted public health interventions to increase preventive care among younger, less educated, and lower-income populations.
+<p align="center">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/25f8a429-0639-4af5-b7cf-1dcccbc9c7e8">
 
-- The analysis of cholesterol checks across different demographic indicators—age, education, and income—reveals clear patterns of health behavior and access to preventive care. Older adults, those with higher educational attainment, and individuals with higher incomes are more likely to have undergone cholesterol checks. These findings underscore the critical role of socioeconomic factors in healthcare access and the importance of targeted public health interventions to increase preventive care among younger, less educated, and lower-income populations. 
-
+- (INSERT BMI SUMMARY HERE)
+<p align="center">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/70be6f3c-7157-4ea7-84c2-327227acf4e1">
 
 <h3>Challenges:</h3>
 	- Finding a dataset to analyze.
