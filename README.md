@@ -66,6 +66,7 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
  
 <h3>Tech Used:</h3>
 	- Jupyter Notebook
+ 	- Visual Studio Code
  
 <h3>Resources:</h3>
 	- Original dataset: https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system<br/>
