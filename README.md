@@ -67,6 +67,7 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 	- OpenAI GitHub: https://github.com/openai
  	
 <h3>Slide Deck Presentation Link:</h3>
+https://docs.google.com/presentation/d/1CTFlWn4W6MksoLJruzDwwsQURiYzW_03seefBXjptjI/edit?usp=sharing
 
 
 
