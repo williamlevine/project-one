@@ -65,7 +65,7 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 	- Teamwork makes the dream work!
  
 <h3>Tech Used:</h3>
-	- Jupyter Notebook
+	- Jupyter Notebook <br/>
  	- Visual Studio Code
  
 <h3>Resources:</h3>
