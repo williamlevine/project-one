@@ -18,11 +18,11 @@ This project seeks to analyze various demographic indicators and lifestyle behav
 	- Education
 	- Age
 - How are these demographic indicators correlated with the following lifestyle choices?
-	- Heavy alcohol consumption
-	- Fruit and vegetable consumption 
-	- Recent cholesterol check
+	- Fruit and vegetable consumption
 	- Physical activity
-	- BMI 
+	- Recent cholesterol check
+	- BMI
+	- Heavy alcohol consumption
 - How is each lifestyle choice above correlated with diabetes outcome?
 
 <h3>Data Exploration and Cleaning</h3>
@@ -44,10 +44,6 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 <p align="center">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/1e235e1b-33c1-44fb-8e47-41a73d569fbb">
 
-- Across all income and education levels, a low percentage of respondents reported heavy alcohol consumption, though there is a slight increase in heavy drinking among higher income earners and more educated individuals. In contrast, heavy alcohol consumption declines with age, with the highest percentage found among the 18-24 age group. Interestingly, the data reveals that a higher proportion of individuals with diabetes are in the non-heavy alcohol consumption group.
-<p align="center">
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/ace66240-909e-42cf-98b4-83ffa36a55a2">
-
 - The analysis of cholesterol checks across different demographic indicators—age, education, and income—reveals clear patterns of health behavior and access to preventive care. Older adults, those with higher educational attainment, and individuals with higher incomes are more likely to have undergone cholesterol checks. These findings underscore the critical role of socioeconomic factors in healthcare access and the importance of targeted public health interventions to increase preventive care among younger, less educated, and lower-income populations.
 <p align="center">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/25f8a429-0639-4af5-b7cf-1dcccbc9c7e8">
@@ -55,6 +51,10 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 - The analysis shows that income and education have minimal impact on BMI, but age has a clear link, with BMI increasing as individuals age. Additionally, the strong correlation between BMI and diabetes highlights the need for targeted interventions to address both.
 <p align="center">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/70be6f3c-7157-4ea7-84c2-327227acf4e1">
+
+- Across all income and education levels, a low percentage of respondents reported heavy alcohol consumption, though there is a slight increase in heavy drinking among higher income earners and more educated individuals. In contrast, heavy alcohol consumption declines with age, with the highest percentage found among the 18-24 age group. Interestingly, the data reveals that a higher proportion of individuals with diabetes are in the non-heavy alcohol consumption group.
+<p align="center">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ace66240-909e-42cf-98b4-83ffa36a55a2">
 
 <h3>Challenges:</h3>
 	- Finding a dataset to analyze.
