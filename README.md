@@ -54,7 +54,7 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 <p align="center">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/25f8a429-0639-4af5-b7cf-1dcccbc9c7e8">
 
-- (INSERT BMI SUMMARY HERE)
+- The analysis shows that income and education have minimal impact on BMI, but age has a clear link, with BMI increasing as individuals age. Additionally, the strong correlation between BMI and diabetes highlights the need for targeted interventions to address both.
 <p align="center">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/70be6f3c-7157-4ea7-84c2-327227acf4e1">
 
