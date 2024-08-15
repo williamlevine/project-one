@@ -47,23 +47,7 @@ As the dataset was already quite clean, most of our data cleaning involved ensur
 
 - The analysis of cholesterol checks across different demographic indicators—age, education, and income—reveals clear patterns of health behavior and access to preventive care. Older adults, those with higher educational attainment, and individuals with higher incomes are more likely to have undergone cholesterol checks. These findings underscore the critical role of socioeconomic factors in healthcare access and the importance of targeted public health interventions to increase preventive care among younger, less educated, and lower-income populations. 
 
-(Pending 6-8 Visualizations we make, inserted random ones found on google images for now.....)
-<br />
-<br />
-<br />
-<br />
-<p align="center">
-<img width="286" alt="image" src="https://github.com/user-attachments/assets/0be9dd43-3c25-4eb4-a293-fbf22b8a4f01">
-<img width="290" alt="image" src="https://github.com/user-attachments/assets/9d70f5ae-6662-4102-8e95-c8064ae003b4">
-<img width="544" alt="image" src="https://github.com/user-attachments/assets/4d33400d-b1fa-49ed-bf2f-f0db317ef7e4">
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/a5699fbe-8e34-43cf-b445-63835bb49cb0">
-<img src="https://github.com/user-attachments/assets/2cfb57c6-34be-40db-bfa9-9eb11bd402c6">
 
-
-
-</p>
-<br />
-<br />
 <h3>Challenges:</h3>
 	- Finding a dataset to analyze.
  
