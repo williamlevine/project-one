@@ -85,7 +85,7 @@ One of the most striking findings is the strong correlation between BMI and diab
 
 Across all income groups, a low percentage of respondents claimed that they are heavy alcoholic consumers, with slight increases at higher income levels. This could be due to higher stress levels and more responsibility with high income jobs, being able to afford more alcohol, and compared to lower income individuals having more leisure time where one would have more opportunity to drink.
 
-Like income, those who claimed heavy alcohol consumption is low across all education levels, and it slightly increases as education increases, with the highest percentage being college graduates. Higher education are places where drinking socially occurs often and those habits can continue after college.
+Like income, those who claimed heavy alcohol consumption is low across all education levels, and it slightly increases as education increases, with the highest percentage being college graduates. Higher education institutions are places where drinking socially occurs often and those habits can continue after college.
 
 When comparing heavy alcohol use with age, it seems as though the percentage of individuals that claimed heavy drinking decreased as age increased. The highest percentage being in the 18-24 age group, when individuals graduate high school and have more time and freedom to drink more, or they go to college where that environment is known for social drinking. The percentage of non heavy drinkers are consistently high though, and high alcoholic consumption decreases significantly with age.
 
